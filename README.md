@@ -3,7 +3,7 @@
 > This is an exercise that I carried out as part of a project with my course MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN. 
 > The main purpose of this project is to show bus locations in real time as they move on a daily basis throughout their routes in the city of Boston.
 
-Check out this project here: [EyeBall Movment Running](https://jorgeamparan.github.io/real-time_bus_tracker](https://jorgeamparan.github.io/Eye-Ball-Movement/)
+Check out this project here: [EyeBall Movment Running](https://jorgeamparan.github.io/Eye-Ball-Movement/)
 
 ![EyeBall Movement](https://github.com/JorgeAmparan/Eye-Ball-Movement/blob/13889dbace6952a0f8cf2f368069ba74caeef440/Eyeball%20Screenshot.png)
 
